@@ -33,3 +33,13 @@ body {
 .box:hover{
     cursor: pointer;
 }
+
+.x-green {
+    background-color: rgb(29, 99, 29);
+}
+.o-blue {
+    background-color: rgb(23, 23, 117);
+}
+.winner {
+    border:5px solid white;
+}
