@@ -1,14 +1,18 @@
-Search Engine for jobs with Excel generator.
- Search engine for jobs that filters based on the qualifications of the user/searcher, this will generate the result and integrate inside an excel sheet as a report.
- The report consists of:
- 1. Job title
- 2. Requirements
- 3. Job Description
- 4. Salary
- 5. Job type
- 6. Shift and Schedule
- 7. Responsibilities
- 8. Requirements
- 9. Preferred
- 9. Website
- 9. Contact Information
+<h1>Search Engine for jobs with Excel generator.</h1>
+
+<p>Search engine for jobs that filters based on the qualifications of the user/searcher, this will generate the result and integrate inside an excel sheet as a report.</p>
+
+<h2> The report consists of:</h2>
+    <ol>
+        <li>Job title</li>
+        <li>Requirements</li>
+        <li>Job Description</li>
+        <li>Salary</li>
+        <li>Job type</li>
+        <li>Shift and Schedule</li>
+        <li>Responsibilities</li>
+        <li>Requirements</li>
+        <li>Preferred</li>
+        <li>Website</li>
+        <li>Contact Information</li>
+    </ol>
