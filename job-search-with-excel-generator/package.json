@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.22.2",
+    "prettier": "^3.2.5"
+  },
+  "name": "job-search-with-excel-generator",
+  "version": "1.0.0",
+  "description": "<h1>Search Engine for jobs with Excel generator.</h1>",
+  "main": "index.js",
+  "dependencies": {
+    "linguist-languages": "^7.27.0",
+    "php-parser": "^3.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
